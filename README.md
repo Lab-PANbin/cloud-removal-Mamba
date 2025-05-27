@@ -1,5 +1,13 @@
 # cloud-removal-Mamba
+Installation
+conda create -n crfamba python=3.10.14
+conda activate crfamba
+conda install pytorch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1 pytorch-cuda=11.7 -c pytorch -c nvidia
+pip install matplotlib scikit-image opencv-python yacs joblib natsort h5py tqdm
+pip install causal-conv1d
+pip install mamba-ssm==1.2.0
 
+cd pytorch-gradual-warmup-lr; python setup.py install; cd ..
 
 We have uploaded the experimental results from the paper, and the code will be uploaded soon.
 
