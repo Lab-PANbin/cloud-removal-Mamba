@@ -16,7 +16,7 @@ pip install mamba-ssm==1.2.0
 
 cd pytorch-gradual-warmup-lr; python setup.py install; cd ..
 
-We have uploaded the experimental results from the paper, and the code will be uploaded soon.
+We have uploaded the experimental results from the paper.
 
  (通过网盘分享的文件：tcloud_CR-Famba.zip 链接: https://pan.baidu.com/s/1AMsHf2WSkV0WuyKZA9APjA 提取码: yyrz 
 --来自百度网盘超级会员v5的分享 )
