@@ -20,8 +20,11 @@ cd pytorch-gradual-warmup-lr; python setup.py install; cd ..
 
 We have uploaded the experimental results from the paper.
 
- (通过网盘分享的文件：tcloud_CR-Famba.zip 链接: https://pan.baidu.com/s/1AMsHf2WSkV0WuyKZA9APjA 提取码: yyrz 
---来自百度网盘超级会员v5的分享 )
+T-CLOUD: (通过网盘分享的文件：tcloud_CR-Famba.zip 链接: https://pan.baidu.com/s/1AMsHf2WSkV0WuyKZA9APjA 提取码: yyrz  )
+RICE1:(通过网盘分享的文件：rice1_CR-Famba.zip 链接: https://pan.baidu.com/s/1KfiKicTu-pcWdG66S_nO6A?pwd=egkr 提取码: egkr )
+
+RICE2:(通过网盘分享的文件：rice2_CR-Famba.zip
+链接: https://pan.baidu.com/s/1ipPO7ArPaGpIVx3d28stfg?pwd=47ef 提取码: 47ef )
 
 To reproduce PSNR/SSIM scores of the paper, run
 
